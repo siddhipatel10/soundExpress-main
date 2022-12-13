@@ -1,17 +1,4 @@
-## Requirements
-- Git (to clone this repo)
-- [NodeJS](https://nodejs.org/en/)
-- [Nodemon](https://nodemon.io/)
-- [Cloudinary Account](https://cloudinary.com/)
-- [ElephantSQL Account](https://www.elephantsql.com/)
+This web app server called "Sound Express" was made using widely-used open source software (including Node.js, Express.js, and MongoDB) and applying HTTP protocol elements, including messages, URI, clients, GET and POST requests, servers, and responses, to design and implement my Sound Express app.
+Lastly, at the end I created simple security system including identity management, authentication, authorization, and resource sharing, to control access to a my Sound Express app by authorized users.
 
-## Resources 
-- [Album Art Finder](https://bendodson.com/projects/itunes-artwork-finder/)
-
-## Local Development
-1. Clone this repo - `git clone https://github.com/helloprof/soundExpress.git`
-2. Copy `sample.env` as `.env` and customize as needed with Cloudinary and ElephantSQL Keys - `cp sample.env .env`
-3. Install npm packages - `npm install`
-4. Run local express server - `nodemon server.js`
-
-App will be available at http://localhost:8080
+Therefore now create your own customized album and start listening because “The best music is essentially there to provide you something to face the world with.” — Bruce Springsteens

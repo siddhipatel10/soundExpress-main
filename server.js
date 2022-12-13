@@ -270,6 +270,7 @@ app.get("/songs/delete/:songID",  ensureLogin, (req, res) => {
   })
 })
 
+
 app.get("/register", (req, res) => {
   res.render('registerForm', {
     layout: 'main'
