@@ -3,4 +3,4 @@ Lastly, at the end I created simple security system including identity managemen
 
 Therefore now create your own customized album and start listening because “The best music is essentially there to provide you something to face the world with.” — Bruce Springsteens
 
-To make your own Albums click on https://lazy-gloves-seal.cyclic.app/ and explore my app and feel free to suggest me few better ideas to make improvements.
+To make your own Albums click on https://lazy-gloves-seal.cyclic.app/.
